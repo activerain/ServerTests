@@ -1,0 +1,17 @@
+http,staging.activerain.com,/
+http,staging.activerain.com,/blogsview/2691331/surviving-the-american-dream-the-argument-for-walking-away-
+http,staging.activerain.com,/blogs/bjoyce/rss
+http,staging.activerain.com,/action/agents_secure/my_home
+http,staging.activerain.com,/action/agents_secure/my_home
+http,staging.activerain.com,/action/agents_secure/my_home
+http,staging.activerain.com,/blogsview/2692664/how-to-choose-a-successful-seasoned-and-reputable-home-stager
+http,staging.activerain.com,/blogsview/2689478/do-you-trust-your-home-inspector-pottstown-
+http,staging.activerain.com,/blogsview/2691424/need-a-blogging-idea-get-engaged-
+http,staging.activerain.com,/blogsview/2691206/what-ever-happened-to-sweat-equity-
+http,staging.activerain.com,/index.rss
+http,staging.activerain.com,/index.rss
+http,staging.activerain.com,/index.rss
+http,staging.activerain.com,/index.rss
+http,staging.activerain.com,/index.rss
+http,staging.activerain.com,/index.rss
+http,staging.activerain.com,/index.rss
